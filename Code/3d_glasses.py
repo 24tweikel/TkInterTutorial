@@ -37,3 +37,6 @@ canvas.create_rectangle(215, 60, 340, 180, fill="blue", stipple="gray50", width=
 canvas.pack()
 
 window.mainloop()
+
+
+
